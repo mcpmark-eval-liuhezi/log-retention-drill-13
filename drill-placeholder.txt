@@ -1,0 +1,4 @@
+# Log Retention Drill 13
+
+Placeholder note for the CI log-retention runbook validation drill.
+This file exists solely to give the scratch branch a trivial diff for the PR.
